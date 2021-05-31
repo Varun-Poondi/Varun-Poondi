@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Varun-Poondi
-- 💻 Im a CS student at UT Dallas 🌌
+# 👋 Hi, I’m @Varun-Poondi
 [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun-Poondi)](https://github.com/Varun-Poondi/github-readme-stats)
 <!---
 Varun-Poondi/Varun-Poondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
