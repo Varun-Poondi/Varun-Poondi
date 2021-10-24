@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Poondi&show_icons=true&theme=radical)](https://github.com/Varun-Poondi/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Poondi&layout=compact)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varun-Poondi&repo=github-readme-stats)](https://github.com/Varun-Poondi/github-readme-stats)
+ 
 
 <!---
 Varun-Poondi/Varun-Poondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
