@@ -4,7 +4,8 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="100">
 
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun-Poondi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Poondi)](https://github.com/Varun-Poondi/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Poondi)](https://github.com/Varun-Poondi/github-readme-stats)--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varun-Poondi&repo=github-readme-stats)](https://github.com/Varun-Poondi/github-readme-stats)
 
 
 
